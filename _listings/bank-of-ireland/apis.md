@@ -12,8 +12,8 @@ tags:
 - UK Banks
 - UK Bank
 - ATMs
-created: "2018-03-10"
-modified: "2018-03-10"
+created: "2018-03-21"
+modified: "2018-03-21"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/bank-of-ireland/master/_listings/bank-of-ireland/apis.yaml
 specificationVersion: "0.14"
 apis:
